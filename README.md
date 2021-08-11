@@ -1,5 +1,5 @@
 # mb_PetitLyricsPlugin
-Forked from https://onedrive.live.com/?authkey=!AFJ-g6t57H6wz4o&id=957D4646F7558E58!143013&cid=957D4646F7558E58
+Forked from <a href="https://onedrive.live.com/?authkey=!AFJ-g6t57H6wz4o&id=957D4646F7558E58!143013&cid=957D4646F7558E58">MusicBee Plugins - OneDrive</a>
 
 MusicBee 用, 邦楽の歌詞を表示するプラグイン. プチリリから歌詞を取得。(c) 2018 htsign
 
